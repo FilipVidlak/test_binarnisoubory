@@ -1,0 +1,11 @@
+C:\Users\filip\source\repos\test_ukol910_binarnisoubory\test_ukol910_binarnisoubory\bin\Debug\test_ukol910_binarnisoubory.exe.config
+C:\Users\filip\source\repos\test_ukol910_binarnisoubory\test_ukol910_binarnisoubory\bin\Debug\test_ukol910_binarnisoubory.exe
+C:\Users\filip\source\repos\test_ukol910_binarnisoubory\test_ukol910_binarnisoubory\bin\Debug\test_ukol910_binarnisoubory.pdb
+C:\Users\filip\source\repos\test_ukol910_binarnisoubory\test_ukol910_binarnisoubory\obj\Debug\test_ukol910_binarnisoubory.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\test_ukol910_binarnisoubory\test_ukol910_binarnisoubory\obj\Debug\test_ukol910_binarnisoubory.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\source\repos\test_ukol910_binarnisoubory\test_ukol910_binarnisoubory\obj\Debug\test_ukol910_binarnisoubory.Form1.resources
+C:\Users\filip\source\repos\test_ukol910_binarnisoubory\test_ukol910_binarnisoubory\obj\Debug\test_ukol910_binarnisoubory.Properties.Resources.resources
+C:\Users\filip\source\repos\test_ukol910_binarnisoubory\test_ukol910_binarnisoubory\obj\Debug\test_ukol910_binarnisoubory.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\test_ukol910_binarnisoubory\test_ukol910_binarnisoubory\obj\Debug\test_ukol910_binarnisoubory.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\test_ukol910_binarnisoubory\test_ukol910_binarnisoubory\obj\Debug\test_ukol910_binarnisoubory.exe
+C:\Users\filip\source\repos\test_ukol910_binarnisoubory\test_ukol910_binarnisoubory\obj\Debug\test_ukol910_binarnisoubory.pdb
